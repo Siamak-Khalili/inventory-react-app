@@ -2,6 +2,8 @@
 
 A modern and efficient inventory management application built with React and Tailwind CSS. This app helps businesses track their products and categories with a clean, responsive interface and local storage persistence.
 
+🔗 [Live Demo](https://siamak-khalili.github.io/inventory-react-app)
+
 ## Features
 
 - 📦 Product Management (Add, Edit, Delete)
